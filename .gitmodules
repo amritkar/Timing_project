@@ -1,0 +1,9 @@
+[submodule "TIMING-Nanowell"]
+	path = TIMING-Nanowell
+	url = /project/roysam/aramritk/Timing_project/TIMING-Nanowell/
+[submodule "TIMING2"]
+	path = TIMING2
+	url = /project/roysam/aramritk/Timing_project/TIMING2/
+[submodule "DEEP-TIMING"]
+	path = DEEP-TIMING
+	url = /project/roysam/aramritk/Timing_project/DEEP-TIMING/
